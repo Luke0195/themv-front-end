@@ -6,7 +6,7 @@ function Header () {
   return (
       <header>
         <nav>
-            <div>
+            <div className="container">
                <h1> DSMovie</h1>
                <a href="https://github.com/Luke0195">
                  <img src={logo} alt="github-logo"/>
