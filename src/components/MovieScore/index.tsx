@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import MovieStars from '../MovieStars'
-export function MovieScore () {
+
+export default function MovieScore () {
   const score = 33
   const count = 20
   return (
